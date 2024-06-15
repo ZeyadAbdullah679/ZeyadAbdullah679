@@ -21,20 +21,25 @@ I enjoy working with a variety of technologies and tools, including:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" title="Android" width="40" height="40" />
 </div>
 
 Feel free to check out my GitHub repositories for more of my Android projects and contributions.
 
-
 ## 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZeyadAbdullah679&theme=cobalt)](https://git.io/streak-stats)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ZeyadAbdullah679&count_private=true&theme=cobalt&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAbdullah679&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ZeyadAbdullah679&theme=cobalt" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/?username=ZeyadAbdullah679&count_private=true&theme=cobalt&show_icons=true" alt="My GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAbdullah679&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
+</div>
 
 ## 📫 Let's Connect
 
