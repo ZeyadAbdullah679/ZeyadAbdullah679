@@ -6,10 +6,12 @@ I'm a passionate Software Engineer with a strong focus on Android Development.
 
 ## 🚀 About Me
 
-- 🌱 Currently learning and experimenting with Android and Kotlin.
-- 💼 Working as a Software Engineer.
-- 🎯 Focused on building clean, scalable, and efficient Android applications.
-- 🤝 Open to collaboration and new opportunities.
+🔭 I’m currently working on building and enhancing Souhoola & Souhoola Sales Android applications with a focus on performance, security, and user experience.
+<br>✊ I’m looking to collaborate on innovative Android projects using Kotlin, Jetpack Compose, and Clean Architecture.
+<br>🤝 I’m looking for help with exploring cross-platform development (Compose Multiplatform, Flutter, Ktor).
+<br>🌱 I’m currently learning advanced Android security practices and expanding into multi-platform mobile development.
+<br>💬 Ask me about Android development, Kotlin, Jetpack libraries, app architecture (MVVM/MVI), and problem-solving in mobile applications.
+<br>⚡ Fun fact: I enjoy solving competitive programming challenges on Codeforces when I’m not building apps.
 
 ## 🔧 Technologies & Tools
 
@@ -94,11 +96,15 @@ Feel free to check out my GitHub repositories for more of my Android projects an
   </a>
 </div>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ZeyadAbdullah679&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 📫 Let's Connect
 
 I'm always excited to connect with fellow Android developers and tech enthusiasts. You can reach me on:
 
-- [LinkedIn](https://www.linkedin.com/in/zeyadabdullah/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zeyadabdullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeyadgalal93@gmail.com)
 
 Feel free to drop me a message or connect with me on any of these platforms.
 
