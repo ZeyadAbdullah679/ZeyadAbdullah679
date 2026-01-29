@@ -25,7 +25,6 @@
 ```
 val zeyadAbdullah = Developer(
     role = "Android Developer",
-    company = "Souhoola",
     experience = "2.5+ years",
     location = "Cairo, Egypt",
     currentFocus = listOf(
