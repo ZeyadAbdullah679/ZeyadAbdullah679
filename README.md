@@ -144,33 +144,6 @@ val zeyadAbdullah = Developer(
 
 ---
 
-## 📊 GitHub Statistics
-
-<h3>📈 Detailed Stats</h3>
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadAbdullah679&custom_title=Zeyad's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=2d77dc&line=2d77dc&point=c3e88d&area_color=2d77dc&title_color=2d77dc&area=true" alt="Contribution Graph" />
-
-<br/>
-
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZeyadAbdullah679&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=2d77dc&icon_color=2d77dc&text_color=c3e88d&rank_icon=percentile&cache_seconds=1800" alt="Zeyad's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZeyadAbdullah679&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2d77dc&text_color=c3e88d&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
-<br/>
-
-<!-- Contribution Streak -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=ZeyadAbdullah679&theme=tokyonight&hide_border=true&background=1A1B27&stroke=2D77DC&ring=2D77DC&fire=FF6B35&currStreakLabel=2D77DC&sideLabels=2D77DC&currStreakNum=C3E88D&dates=70A5FD&sideNums=C3E88D&border=1A1B27" alt="GitHub Streak Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeyadAbdullah679&theme=tokyonight" alt="Profile Details"/>
-
-</div>
-
-</details>
-
----
-
 ## 🎯 Featured Projects
 
 <div align="center">
